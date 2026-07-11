@@ -2,9 +2,7 @@
 
 A modern, responsive, and feature-rich Task Management application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). 
 
-This project was developed as a technical assignment for the **Full Stack Developer Intern** position at **COLL-EDGE CONNECT**. It goes beyond the basic requirements by implementing an advanced analytics dashboard, framer-motion animations, search capabilities, and a highly polished glassmorphism user interface.
 
----
 
 ## 🚀 Live Demo
 

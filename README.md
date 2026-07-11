@@ -1,4 +1,4 @@
-# TaskTracker - Full Stack MERN Application
+# Task Tracker - Full Stack MERN Application
 
 A modern, responsive, and feature-rich Task Management application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). 
 
